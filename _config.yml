@@ -35,16 +35,16 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  email: you@email.com
+  name: Jorge Blasco Alís
+  avatar: photo-jorge.jpg
+  email: Jorge.BlascoAlis@rhul.ac.uk
   disqus-shortname:
-  twitter: #username
+  twitter: guizos
   facebook: #username
-  github: #username
+  github: guizos
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
-  instagram: #username
+  instagram: guizos
   flickr: #username
   tumblr: #username
   pinterest: #username
