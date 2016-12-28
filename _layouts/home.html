@@ -44,6 +44,9 @@
           {% if site.owner.email %}{{site.owner.email}}<br>{% endif %}
         </span>
         <div class="social-icons">
+          {% if site.owner.scholar %}<a href="https://scholar.google.co.uk/citations?user={{ site.owner.scholar }}/" title="{{ site.owner.name}} on Google Scholar" target="_blank"><i class="ai ai-google-scholar-square ai-2x"></i></a>{% endif %}
+          {% if site.owner.researchgate %}<a href="https://www.researchgate.net/profile/{{ site.owner.researchgate }}/" title="{{ site.owner.name}} on Research Gate" target="_blank"><i class="ai ai-researchgate-square ai-2x"></i></a>{% endif %}
+          {% if site.owner.orcid %}<a href="https://orcid.org/{{ site.owner.orcid }}/" title="{{ site.owner.name}} on ORCID" target="_blank"><i class="ai ai-orcid-square ai-2x"></i></a>{% endif %}
           {% if site.owner.twitter %}<a href="https://twitter.com/@{{ site.owner.twitter }}" title="{{ site.owner.name}} on Twitter" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a>{% endif %}
       	  {% if site.owner.facebook %}<a href="https://facebook.com/{{ site.owner.facebook }}" title="{{ site.owner.name}} on Facebook" target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a>{% endif %}
       	  {% if site.owner.google.plus %}<a href="https://plus.google.com/+{{ site.owner.google.plus }}" title="{{ site.owner.name}} on Google+" target="_blank"><i class="fa fa-google-plus-square fa-2x"></i></a>{% endif %}
