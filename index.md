@@ -14,3 +14,11 @@ I am a research fellow in the School of Engineering and Mathematics at City Univ
 * Custom 404 page to get you started.
 * Simple site search
 * Support for Disqus Comments
+
+## Latest Blog Post
+
+<div class="blog-index">  
+  {% assign post = site.posts.first %}
+  {% assign content = post.content %}
+  {% include post_detail.html %}
+</div>
