@@ -1,9 +1,8 @@
 # Site wide configuration
 
-title: Site Title
-locale: en_US
-description: Describe your website here.
-logo: site-logo.png
+title: Jorge Blasco Alis' Personal Website
+locale: en_UK
+description: This is my personal website
 search: true
 url: http://localhost:4000
 
@@ -36,16 +35,24 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  email: you@email.com
+  name: Jorge Blasco Alís
+  avatar: photo-jorge.jpg
+  position: Lecturer
+  department: Information Security Group
+  institution: Royal Holloway
+  institution2: University of London
+  office: McCrea 355B
+  email: Jorge.BlascoAlis@rhul.ac.uk
   disqus-shortname:
-  twitter: #username
+  twitter: guizos
+  scholar: REJdu3wAAAAJ
+  researchgate: Jorge_Blasco
+  orcid: 0000-0003-4392-9023
   facebook: #username
-  github: #username
+  github: guizos
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
-  instagram: #username
+  instagram: guizos
   flickr: #username
   tumblr: #username
   pinterest: #username
