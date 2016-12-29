@@ -1,0 +1,12 @@
+
+
+/*************************************
+   The box that contain BibTeX code
+ *************************************/
+div.bibtexVar {
+	background-color: #efefef;
+}
+
+span.title {
+	text-decoration: underline;
+}
