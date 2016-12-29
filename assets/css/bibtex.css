@@ -4,5 +4,9 @@
    The box that contain BibTeX code
  *************************************/
 div.bibtexVar {
-	background-color: rgba(255, 195, 8, 0.11);
+	background-color: #efefef;
+}
+
+span.title {
+	text-decoration: underline;
 }
