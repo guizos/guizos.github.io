@@ -3,7 +3,7 @@ layout: post
 title: "Hola Mundo!"
 modified:
 categories: blog
-excerpt: Welcome to my brand new personal website! I am a proud *madrileño* from Spain working as a Lecturer within the Information Security group at Royal Holloway, University of London...
+excerpt: Welcome to my brand new personal website! I am a proud madrileño from Spain working as a Lecturer within the Information Security group at Royal Holloway, University of London...
 tags: []
 image:
   feature:
