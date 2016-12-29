@@ -1,0 +1,234 @@
+% Encoding: UTF-8
+
+@Inproceedings{blasco2010improving,
+  author       = {Blasco, Jorge and Orfila, Agustin and Ribagorda, Arturo},
+  title        = {Improving network intrusion detection by means of domain-aware genetic programming},
+  booktitle    = {Availability, Reliability, and Security, 2010. ARES'10 International Conference on},
+  year         = {2010},
+  pages        = {327--332},
+  organization = {IEEE},
+}
+
+@Inproceedings{galan2010multi,
+  author       = {Gal{\'a}n, Eduardo and Alcaide, Almudena and Orfila, Agust{\'\i}n and Blasco, Jorge},
+  title        = {A multi-agent scanner to detect stored-XSS vulnerabilities},
+  booktitle    = {Internet Technology and Secured Transactions (ICITST), 2010 International Conference for},
+  year         = {2010},
+  pages        = {1--6},
+  organization = {IEEE},
+}
+
+@Article{gascon2011analysis,
+  author    = {Gascon, Hugo and Orfila, Agustin and Blasco, Jorge},
+  title     = {Analysis of update delays in signature-based network intrusion detection systems},
+  journal   = {computers \& security},
+  year      = {2011},
+  volume    = {30},
+  number    = {8},
+  pages     = {613--624},
+  publisher = {Elsevier Advanced Technology},
+}
+
+@Incollection{suarez2009automatic,
+  author    = {Suarez-Tangil, Guillermo and Palomar, Esther and de Fuentes, Jos{\'e} Mar{\'\i}a and Blasco, J and Ribagorda, Arturo},
+  title     = {Automatic rule generation based on genetic programming for event correlation},
+  booktitle = {Computational Intelligence in Security for Information Systems},
+  publisher = {Springer Berlin Heidelberg},
+  year      = {2009},
+  pages     = {127--134},
+}
+
+@Inproceedings{blasco2009steganalysis,
+  author       = {Blasco, Jorge and Hernandez-Castro, Julio C and Tapiador, Juan ME and Ribagorda, Arturo and Orellana-Quiros, Miguel A},
+  title        = {Steganalysis of Hydan},
+  booktitle    = {IFIP International Information Security Conference},
+  year         = {2009},
+  pages        = {132--142},
+  organization = {Springer Berlin Heidelberg},
+}
+
+@Article{blasco2012framework,
+  author    = {Blasco, Jorge and Cesar Hernandez-Castro, Julio and Mar{\'\i}a de Fuentes, Jos{\'e} and Ramos, Benjam{\'\i}n},
+  title     = {A framework for avoiding steganography usage over HTTP},
+  journal   = {Journal of Network and Computer Applications},
+  year      = {2012},
+  volume    = {35},
+  number    = {1},
+  pages     = {491--501},
+  publisher = {Academic Press},
+}
+
+@Misc{raya2011cross,
+  author    = {Raya, Almudena Alcaide and Alis, Jorge Blasco and Herrero, Eduardo Gal{\'a}n and Diaz-Pab{\'o}n, Agust{\'\i}n Orfila},
+  title     = {Cross-Site Scripting},
+  year      = {2011},
+  publisher = {University Carlos III of Madrid, Spain},
+}
+
+@Article{blasco2012bypassing,
+  author    = {Blasco, Jorge and Hernandez-Castro, Julio Cesar and Tapiador, Juan E. and Ribagorda, Arturo},
+  title     = {Bypassing information leakage protection with trusted applications},
+  journal   = {Computers \& Security},
+  year      = {2012},
+  volume    = {31},
+  number    = {4},
+  pages     = {557--568},
+  publisher = {Elsevier},
+}
+
+@Article{de2013wevan,
+  author    = {de Fuentes, Jose Maria and Gonz{\'a}lez-Manzano, Lorena and Gonz{\'a}lez-Tablas, Ana Isabel and Blasco, Jorge},
+  title     = {WEVAN--A mechanism for evidence creation and verification in VANETs},
+  journal   = {Journal of Systems Architecture},
+  year      = {2013},
+  volume    = {59},
+  number    = {10},
+  pages     = {985--995},
+  publisher = {North-Holland},
+}
+
+@Article{de2014security,
+  author    = {de Fuentes, Jos{\'e} Mar{\'\i}a and Gonz{\'a}lez-Manzano, Lorena and Gonz{\'a}lez-Tablas, Ana Isabel and Blasco, Jorge},
+  title     = {Security models in vehicular ad-hoc networks: A survey},
+  journal   = {IETE Technical Review},
+  year      = {2014},
+  volume    = {31},
+  number    = {1},
+  pages     = {47--64},
+  publisher = {Taylor \& Francis},
+}
+
+@Article{suarez2014dendroid,
+  author    = {Suarez-Tangil, Guillermo and Tapiador, Juan E and Peris-Lopez, Pedro and Blasco, Jorge},
+  title     = {Dendroid: A text mining approach to analyzing and classifying code structures in android malware families},
+  journal   = {Expert Systems with Applications},
+  year      = {2014},
+  volume    = {41},
+  number    = {4},
+  pages     = {1104--1117},
+  publisher = {Pergamon},
+}
+
+@Inproceedings{blasco2008csteg,
+  author    = {Blasco, Jorge and Hernandez-Castro, J and Tapiador, J and Ribagorda, A},
+  title     = {Csteg: Talking in C code},
+  booktitle = {Proceedings of SECRYPT International Conference},
+  year      = {2008},
+  pages     = {399--406},
+}
+
+@Article{de2014applying,
+  author    = {de Fuentes, Jose Maria and Blasco, Jorge and Gonz{\'a}lez-Tablas, Ana Isabel and Gonz{\'a}lez-Manzano, Lorena},
+  title     = {Applying information hiding in vanets to covertly report misbehaving vehicles},
+  journal   = {International Journal of Distributed Sensor Networks},
+  year      = {2014},
+  volume    = {2014},
+  publisher = {Hindawi Publishing Corporation},
+}
+
+@Inproceedings{blasco2014tunable,
+  author       = {Blasco, Jorge and Di Pietro, Roberto and Orfila, Agustin and Sorniotti, Alessandro},
+  title        = {A tunable proof of ownership scheme for deduplication using bloom filters},
+  booktitle    = {Communications and Network Security (CNS), 2014 IEEE Conference on},
+  year         = {2014},
+  pages        = {481--489},
+  organization = {IEEE},
+}
+
+@Article{chen2014intrusion,
+  author  = {Chen, Thomas M and Blasco, Jorge and Alzubi, Jafar and Alzubi, Omar},
+  title   = {Intrusion Detection},
+  journal = {IET Engineering \& Technology Reference, Thomas M. Chen et al},
+  year    = {2014},
+  pages   = {1--9},
+}
+
+@Article{blasco2015hindering,
+  author    = {Blasco, Jorge and Tapiador, Juan E and Peris-Lopez, Pedro and Suarez-Tangil, Guillermo},
+  title     = {Hindering data theft with encrypted data trees},
+  journal   = {Journal of Systems and Software},
+  year      = {2015},
+  volume    = {101},
+  pages     = {147--158},
+  publisher = {Elsevier},
+}
+
+@Phdthesis{alis2012information,
+  author = {Al{\'\i}s, Jorge Blasco Al{\'\i}s},
+  title  = {Information leakage and steganography: detecting and blocking covert channels},
+  school = {Universidad Carlos III de Madrid},
+  year   = {2012},
+}
+
+@Article{alariodisenando,
+  author = {Alario-Hoyos, Carlos and Kloos, Carlos Delgado and Est{\'e}vez-Ayres, Iria and Fern{\'a}ndez-Panadero, Carmen and Blasco, Jorge and Pastrana, Sergio and Su{\'a}rez-Tangil, Guillermo and Villena-Rom{\'a}n, Julio},
+  title  = {Dise{\~n}ando un MOOC en edX: Introducci{\'o}n a la Programaci{\'o}n con Java--Parte},
+  year   = {2015},
+}
+
+@Article{alario2016interactive,
+  author    = {ALARIO-HOYOS, Carlos and KLOOS, Carlos DELGADO and EST{\'E}VEZ-AYRES, Iria and FERN{\'A}NDEZ-PANADERO, Carmen and BLASCO, Jorge and PASTRANA, Sergio and SU{\'A}REZ-TANGIL, Guillero and VILLENA-ROM{\'A}N, Julio},
+  title     = {Interactive activities: the key to learning programming with MOOCs},
+  journal   = {Proceedings of the European Stakeholder Summit on experiences and best practices in and around MOOCs (EMOOCS 2016)},
+  year      = {2016},
+  pages     = {319},
+  publisher = {BoD--Books on Demand},
+}
+
+@Inproceedings{asavoae2016towards,
+  author    = {Asavoae, Irina Mariuca and Blasco, Jorge and Chen, Thomas M and Kalutarage, Harsha Kumara and Muttik, Igor and Nguyen, Hoang Nga and Roggenbach, Markus and Shaikh, Siraj Ahmed},
+  title     = {Towards Automated Android App Collusion Detection},
+  booktitle = {Innovations in Mobile Privacy and Security},
+  year      = {2016},
+  volume    = {1575},
+  pages     = {29--37},
+}
+
+@Article{alís2008csteg,
+  author = {Al{\i}́s, Jorge Blasco and Hern, Julio Cesar and Tapiador, Juan ME and Garnacho, Arturo Ribagorda},
+  title  = {CSTEG: TALKING IN C CODE Steganography of C Source Code in Text},
+  year   = {2008},
+}
+
+@Inproceedings{alis2009steganalysis,
+  author    = {Al{\'\i}s, Jorge Blasco and Castro, Julio C{\'e}sar Hern{\'a}ndez and Est{\'e}vez-Tapiador, Juan M and Ribagorda, Arturo and Orellana-Quiros, Miguel A},
+  title     = {Steganalysis of Hydan.},
+  booktitle = {SEC},
+  year      = {2009},
+  pages     = {132--142},
+}
+
+@Inproceedings{igor2015android,
+  author    = {Igor Muttik, Jorge Blasco, Tom Chen, Harsha K. Kalutarage and Siraj A. Sheikh},
+  title     = {Android-Collusion Conspiracy},
+  booktitle = {18th Association of Anti-virus Asia Researchers International Conference},
+  year      = {2015},
+}
+
+@Article{blasco2016survey,
+  author    = {Blasco, Jorge and Chen, Thomas M and Tapiador, Juan and Peris-Lopez, Pedro},
+  title     = {A Survey of Wearable Biometric Recognition Systems},
+  journal   = {ACM Computing Surveys (CSUR)},
+  year      = {2016},
+  volume    = {49},
+  number    = {3},
+  pages     = {43},
+  publisher = {ACM},
+}
+
+@Inproceedings{jorge2016wild,
+  author       = {Jorge Blasco, Igor Muttik, Markus Roggenbach, Thomas M. Chen},
+  title        = {Wild Android Collusions},
+  booktitle    = {VirusBulletin 2016},
+  year         = {2016},
+  organization = {Virus Bulletin},
+}
+
+@Article{qadri2016review,
+  author  = {Qadri, Jameel and Chen, Thomas M and Blasco, Jorge},
+  title   = {A review of Significance of Energy-Consumption Anomaly in Malware Detection in Mobile Devices},
+  year    = {2016},
+  pllinks = {[PDF]:http://www.google.com},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

@@ -1,16 +1,16 @@
 <link rel="stylesheet" href="{{ site.url }}/assets/css/bibtex.css">
 <script type="text/javascript">
-<!--
-// Toggle Display of BibTeX
-function toggleBibtex(articleid) {
-  var bib = document.getElementById(articleid);
-  // Toggle
-    if(bib.style.display == "none") {
-      bib.style.display = "";
+    <!--
+    // Toggle Display of BibTeX
+    function toggleBibtex(articleid) {
+        var bib = document.getElementById('bib_'+articleid);
+        if (bib) {
+            if(bib.className.indexOf('bibtex') != -1) {
+                bib.className.indexOf('noshow') == -1?bib.className = 'bibtex noshow':bib.className = 'bibtex';
+            }
+        } else {
+            return;
+        }
     }
-    else {
-      bib.style.display = "none";
-    }
-}
 -->
-</script>
+    </script>
