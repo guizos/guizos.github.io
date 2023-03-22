@@ -37,12 +37,12 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 owner:
   name: Jorge Blasco Alís
   avatar: photo-jorge.jpg
-  position: Lecturer
-  department: Information Security Group
-  institution: Royal Holloway
-  institution2: University of London
-  office: McCrea 355B
-  email: Jorge.BlascoAlis@rhul.ac.uk
+  position: Associate Professor (Profesor Titular)
+  department: Comptuer Systemes
+  institution: Escuela Técnica Superior de Ingeniería de Sistemas Informáticos
+  institution2: Universidad Politécnica de Madrid
+  office: 1229
+  email: jorge.blasco.alis@upm.es
   disqus-shortname:
   twitter: guizos
   scholar: REJdu3wAAAAJ
